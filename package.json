@@ -1,12 +1,12 @@
 {
-  "name": "rndid",
-  "private": true,
-  "version": "0.0.0",
-  "devDependencies": {
-    "component-test2": "~0.1.2",
-    "component": "~0.19.7"
-  },
-  "scripts": {
-    "test": "TEST_RUNNER=phantom make test"
-  }
+  "name": "stephenmathieson-rndid",
+  "description": "generate a guaranteed unique id",
+  "version": "0.1.1",
+  "keywords": [
+    "dom",
+    "id",
+    "random"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
